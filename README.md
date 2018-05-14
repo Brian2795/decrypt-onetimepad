@@ -1,4 +1,5 @@
 # decrypt-onetimepad
+## Description
 Assignment for a Cryptology course at UMD.
 Practice decrypting a one-time-pad to show its vulnerability in reuse.
 
@@ -7,14 +8,17 @@ Practice decrypting a one-time-pad to show its vulnerability in reuse.
 - manually adjusted remaining characters to break unknown indices of key
 
 
-### Instructions
-Execute onetimepad.py using python3 in the project folder. Should generate plainttexts.txt
+## Instructions
+Execute onetimepad.py using python 3 in the project folder. Version shouldn't matter.
 
 
-### Files
+## Files
 Provided:
-<br>- ctexts.txt 
+    ctexts.txt 
 
 Implemented:
-<br>- onetimepad.py
-<br>- texthelper.py
+    - onetimepad.py
+    - texthelper.py
+
+Generated:
+    - plaintexts.txt
