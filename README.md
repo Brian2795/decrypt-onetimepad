@@ -13,12 +13,12 @@ Execute onetimepad.py using python 3 in the project folder. Version shouldn't ma
 
 
 ## Files
-Provided:<br>
+**Provided**<br>
 - ctexts.txt 
 
-Implemented:<br>
+**Implemented**<br>
 - onetimepad.py<br>
 - texthelper.py
 
-Generated:<br>
+**Generated**<br>
 - plaintexts.txt
