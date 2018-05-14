@@ -7,9 +7,14 @@ Practice decrypting a one-time-pad to show its vulnerability in reuse.
 - manually adjusted remaining characters to break unknown indices of key
 
 
+### Instructions
+Execute onetimepad.py using python3 in the project folder. Should generate plainttexts.txt
+
+
+### Files
 Provided:
-  <br>- ctexts.txt 
+<br>- ctexts.txt 
 
 Implemented:
-  <br>- onetimepad.py
-  <br>- texthelper.py
+<br>- onetimepad.py
+<br>- texthelper.py
