@@ -14,11 +14,11 @@ Execute onetimepad.py using python 3 in the project folder. Version shouldn't ma
 
 ## Files
 Provided:<br>
-    ctexts.txt 
+- ctexts.txt 
 
 Implemented:<br>
-    - onetimepad.py<br>
-    - texthelper.py
+- onetimepad.py<br>
+- texthelper.py
 
 Generated:<br>
-    - plaintexts.txt
+- plaintexts.txt
