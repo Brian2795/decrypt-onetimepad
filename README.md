@@ -8,8 +8,8 @@ Practice decrypting a one-time-pad to show its vulnerability in reuse.
 
 
 Provided:
-  ctexts.txt 
+  <br>- ctexts.txt 
 
 Implemented:
-  <br>onetimepad.py
-  <br>texthelper.py
+  <br>- onetimepad.py
+  <br>- texthelper.py
